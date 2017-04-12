@@ -1,0 +1,1 @@
+[2014-10-28 09:42:38][Install],{'os_name': 'asdasd', 'device_model': 'sadasd', 'ip': '127.0.0.1', 'app_channel': 'asdasd', 'nation': 1, 'udid': 'asdasdasd', 'app_ver': 'asdasd', 'mac_addr': 'asdasd', 'install': 1414460558, 'ipv6': 'asdasdasdasd', 'os_ver': 'asdasd'}
